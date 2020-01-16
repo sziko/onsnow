@@ -1,0 +1,6 @@
+com/app/App.class
+com/controller/SkiResortsController.class
+com/model/SkiSlope.class
+com/service/WebScraperService.class
+com/scraper/WebScraper.class
+com/model/SkiResort.class
