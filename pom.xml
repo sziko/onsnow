@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <jsoup.version>1.11.3</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <maven-sahed-plugin.version>3.2.0</maven-sahed-plugin.version>
         <maven-compiler-pligin.version>3.8.0</maven-compiler-pligin.version>
         <commons-lang.version>2.2</commons-lang.version>
