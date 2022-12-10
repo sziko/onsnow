@@ -13,7 +13,7 @@
         <maven-sahed-plugin.version>3.2.0</maven-sahed-plugin.version>
         <maven-compiler-pligin.version>3.8.0</maven-compiler-pligin.version>
         <commons-lang.version>2.2</commons-lang.version>
-        <spring-web.version>5.2.1.RELEASE</spring-web.version>
+        <spring-web.version>6.0.0</spring-web.version>
     </properties>
 
     <parent>
